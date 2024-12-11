@@ -32,14 +32,14 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 
  ## 💼 Work Experience
 
-- **Qoptars** - Full Stack Developer (Sept 2024 - Present)  
-  Developed a website for AP Govt. to track the recent real-time flood related data of the city Vijayawada, Andhra Pradesh & Reduced Load time by using caching techniques & Lazy Loading.
+- **CODTECH IT SOLUTIONS PVT.LTD** - Full Stack Developer Intern (Nov 2024 - Jan 2025)  
+  I Developed Personal Portfolio with Backend and E- Commerce Platform using Spring boot, SQL, ReactJS. Features include real-time inventory updates, user-friendly and personalized recommendations. 
 
-- **Novizit** - Software Developer (Sept 2023 - Feb 2024)  
-  Developed MVP of Novizit app using React-Native and TailwindCSS, reducing development time by 25% through reusable components and optimized code.
+- **CipherByte Technologies** - Java Programming Intern (Sept 2024 - Oct 2024)  
+   I completed a Java Programming Intern at CipherByte Technologies, where I utilize my skills in core java, JDBC and Spring Boot to contribute to project development, Including projects like console-based Library Catalog System, BankY, and Digital Library Management.
   
-- **Tech Table** - Full Stack Developer (Sept 2023 - Feb 2024)  
-  Contributed to multiple client projects and collaborated with the team effectively.
+- **PRASUNET COMPANY PVT.LTD** - Web Development Intern (Jun 2024 - Jul 2024)  
+   I completed a Web Development Intern at Prasunet Company, where I enhanced my abilities in HTML, CSS, JavaScript and additional web technologies to support the creation of user-friendly applications, working on projects such as Responsive Landing Page, Tictactoe, Weather and Portfolio.
 
 ## 🎓 Education
 
@@ -63,5 +63,3 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ramakrishna3488&icon=5&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
