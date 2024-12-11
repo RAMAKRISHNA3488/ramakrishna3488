@@ -46,11 +46,6 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 - **Rajeev Gandhi Memorial College of Engineering and Technology**  
   MCA in Computer Science , CGPA: 7.2 (2023 - 2025)
 
-## 🏆 Achievements
-
-- GeeksForGeeks Institute Rank Topper (2021-2025), 570 problems solved , 1785 Rating(3 star).
-- Ranked in Top 9% in Leetcode Globally & Ranked in Top 9% on GeekForGeeks.
-- Achieved Top 1% ranking in the cloud computing NPTEL with a score of 87% .
 
 
 # 📫 Let's Connect! 
@@ -64,9 +59,9 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyani179&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kalyani179&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ramakrishna3488&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kalyani179&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ramakrishna3488&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
