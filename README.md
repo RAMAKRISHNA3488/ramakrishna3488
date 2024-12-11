@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
   ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
-  ![Sql](https://img.shields.io/badge/-Sql-880000?style=flat&logo=sql&logoColor=white)
+  ![SQL](https://img.shields.io/badge/-SQL-880000?style=flat&logo=sql&logoColor=white)
 
   - **Tools:**
     ![Postman](https://img.shields.io/badge/-Postman-880000?style=flat&logo=Postman&logoColor=white)
