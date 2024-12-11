@@ -1,5 +1,5 @@
 # 💫 Hello! My name is Kummari Ramakrishna 👋
-Welcome to my GitHub profile! I'm a passionate Software  Developer with a love for creating innovative solutions and learning new technologies.<br>
+Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backend Developer with a love for creating innovative solutions and learning new technologies.<br>
 
 ## 🛠️ Tech Stack
 
