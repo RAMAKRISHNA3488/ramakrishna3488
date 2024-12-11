@@ -46,8 +46,8 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 
 ## 🎓 Education
 
-- **Maharaja Vijayaram Gajapathi Raj College of Engineering (MVGRCE)**  
-  B.Tech in CSE , CGPA: 9.2 (2021 - 2025)
+- **Rajeev Gandhi Memorial College of Engineering and Technology**  
+  MCA in Computer Science , CGPA: 7.2 (2023 - 2025)
 
 ## 🏆 Achievements
 
@@ -57,13 +57,12 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 
 
 # 📫 Let's Connect! 
-- [LinkedIn](https://www.linkedin.com/in/kalyani-dantuluri/)
-- [Portfolio](https://kalyani179.github.io/portfolio/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/kalyani179/)
-- [Leetcode](https://leetcode.com/u/kalyani971/)
+- [LinkedIn](https://www.linkedin.com/in/k-ramakrishna-a9a9811ab/)
+- [Portfolio](https://ramakrishna3488.github.io/)
+- [Leetcode](https://leetcode.com/u/Ram3488/)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=kalyani179&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ramakrishna3488&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=kalyani179&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyani179&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
