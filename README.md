@@ -5,10 +5,6 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 
 - **Web Technologies:**
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-  ![EJS](https://img.shields.io/badge/-EJS-4F5B93?style=flat&logo=ejs&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -16,17 +12,12 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 - **Programming Languages:**
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-  ![C++](https://img.shields.io/badge/-C%2B%2B-F34B7D?style=flat&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 - **Database Management:**
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-  ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-880000?style=flat&logo=sql&logoColor=white)
 
   - **Tools:**
     ![Postman](https://img.shields.io/badge/-Postman-880000?style=flat&logo=Postman&logoColor=white)
