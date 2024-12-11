@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 - **Programming Languages:**
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
@@ -27,16 +26,17 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
   ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
-  ![MySql](https://img.shields.io/badge/-MySql-880000?style=flat&logo=mysql&logoColor=white)
+  ![Sql](https://img.shields.io/badge/-Sql-880000?style=flat&logo=sql&logoColor=white)
 
   - **Tools:**
     ![Postman](https://img.shields.io/badge/-Postman-880000?style=flat&logo=Postman&logoColor=white)
     ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/-GitHub-F05032?style=flat&logo=github&logoColor=white)
+    ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+    ![MySql](https://img.shields.io/badge/-MySql-880000?style=flat&logo=mysql&logoColor=white)
 
 - **Other:**
   ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F5A300?style=flat&logo=python&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   ![Competitive Programming](https://img.shields.io/badge/-Competitive%20Programming-2D2D2D?style=flat&logo=codeforces&logoColor=white)
 
  ## 💼 Work Experience
