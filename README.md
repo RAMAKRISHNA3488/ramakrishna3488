@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 - [Leetcode](https://leetcode.com/u/Ram3488/)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ramakrishna3488&theme=dark&hide_border=false)<br/>
+![](https://github.com/RAMAKRISHNA3488?tab=stars)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=kalyani179&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyani179&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
