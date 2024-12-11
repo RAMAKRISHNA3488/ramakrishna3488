@@ -29,6 +29,11 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
   ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
   ![MySql](https://img.shields.io/badge/-MySql-880000?style=flat&logo=mysql&logoColor=white)
 
+  - **Tools:**
+    ![Postman](https://img.shields.io/badge/-Postman-880000?style=flat&logo=Postman&logoColor=white)
+    ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/-GitHub-F05032?style=flat&logo=github&logoColor=white)
+
 - **Other:**
   ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F5A300?style=flat&logo=python&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
