@@ -19,12 +19,12 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 - **Database Management:**
   ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
-  - **Tools:**
-    ![Postman](https://img.shields.io/badge/-Postman-880000?style=flat&logo=Postman&logoColor=white)
-    ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/-GitHub-F05032?style=flat&logo=github&logoColor=white)
-    ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-    ![MySql](https://img.shields.io/badge/-MySql-880000?style=flat&logo=mysql&logoColor=white)
+- **Tools:**
+  ![Postman](https://img.shields.io/badge/-Postman-880000?style=flat&logo=Postman&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-F05032?style=flat&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![MySql](https://img.shields.io/badge/-MySql-880000?style=flat&logo=mysql&logoColor=white)
 
 - **Other:**
   ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F5A300?style=flat&logo=python&logoColor=white)
