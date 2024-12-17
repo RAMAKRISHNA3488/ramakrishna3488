@@ -9,9 +9,11 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 - **Frameworks:**
-  ![Spring Framework](https://img.shields.io/badge/-Spring%20Framework-007396?style=flat&logo=sspring-framework&logoColor=white)
+  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-3776AB?style=flat&logo=spring-boot&logoColor=white)
   ![Hibrenate](https://img.shields.io/badge/-Hibernate-F7DF1E?style=flat&logo=hibernate&logoColor=black)
+  ![Microservices](https://img.shields.io/badge/-Microservices-009688?style=flat&logo=docker&logoColor=white)
+
 
 - **Database Management:**
   ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
@@ -33,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![MySql](https://img.shields.io/badge/-MySql-880000?style=flat&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-003B57?style=flat&logo=mongodb&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-880000?style=flat&logo=Eclipse&logoColor=white)
+  ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat&logo=eclipse&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 
