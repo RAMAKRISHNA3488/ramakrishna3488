@@ -65,6 +65,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 - [LinkedIn](https://www.linkedin.com/in/k-ramakrishna-a9a9811ab/)
 - [Portfolio](https://ramakrishna3488.github.io/)
 - [Leetcode](https://leetcode.com/u/Ram3488/)
+- [Medium](https://ramakrishna-01.medium.com/)
 
 # 📊 GitHub Stats:
 ![](https://github.com/ramakrishna3488?tab=stars)<br/>
