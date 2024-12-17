@@ -8,9 +8,11 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+- **Frameworks:**
+
 - **Database Management:**
   ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-  ![NoSQL](https://img.shields.io/badge/-NoSQL-003B57?style=flat&logo=mongodb&logoColor=white)
+  ![NoSQL](https://img.shields.io/badge/-NoSQL-003B57?style=flat&logo=mongodb&logoColor=black)
   
 
   - **Web Technologies:**
