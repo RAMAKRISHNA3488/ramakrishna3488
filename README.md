@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 
 - **Database Management:**
   ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-   ![MongoDB](https://img.shields.io/badge/-MongoDB-003B57?style=flat&logo=mongodb&logoColor=white)
+  ![NoSQL](https://img.shields.io/badge/-NoSQL-003B57?style=flat&logo=nosql&logoColor=white)
+  
 
   - **Web Technologies:**
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
@@ -26,6 +27,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
   ![GitHub](https://img.shields.io/badge/-GitHub-F05032?style=flat&logo=github&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![MySql](https://img.shields.io/badge/-MySql-880000?style=flat&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-003B57?style=flat&logo=mongodb&logoColor=white)
 
 - **Other:**
   ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F5A300?style=flat&logo=python&logoColor=white)
