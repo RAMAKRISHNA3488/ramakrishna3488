@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 - **Frameworks:**
-  ![Spring](https://img.shields.io/badge/-Spring%20Framework-007396?style=flat&logo=sspring-framework&logoColor=white)
+  ![Spring Framework](https://img.shields.io/badge/-Spring%20Framework-007396?style=flat&logo=sspring-framework&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-3776AB?style=flat&logo=spring-boot&logoColor=white)
   ![Hibrenate](https://img.shields.io/badge/-Hibernate-F7DF1E?style=flat&logo=hibernate&logoColor=black)
 
