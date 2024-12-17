@@ -9,8 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 - **Frameworks:**
-
-  ![Spring](https://img.shields.io/badge/-Spring-007396?style=flat&logo=sspring&logoColor=white)
+  ![Spring](https://img.shields.io/badge/-Spring-007396?style=flat&logo=sspring-framework&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-3776AB?style=flat&logo=spring-boot&logoColor=white)
   ![Hibrenate](https://img.shields.io/badge/-Hibernate-F7DF1E?style=flat&logo=hibernate&logoColor=black)
 
@@ -19,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
   ![NoSQL](https://img.shields.io/badge/-NoSQL-003B57?style=flat&logo=mongodb&logoColor=White)
   
 
-  - **Web Technologies:**
+- **Web Technologies:**
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
