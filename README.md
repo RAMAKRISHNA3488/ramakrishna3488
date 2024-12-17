@@ -3,14 +3,6 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 
 ## 🛠️ Tech Stack
 
-- **Web Technologies:**
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
 - **Programming Languages:**
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -18,6 +10,15 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 
 - **Database Management:**
   ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+   ![MongoDB](https://img.shields.io/badge/-MongoDB-003B57?style=flat&logo=mongodb&logoColor=white)
+
+  - **Web Technologies:**
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 - **Tools:**
   ![Postman](https://img.shields.io/badge/-Postman-880000?style=flat&logo=Postman&logoColor=white)
