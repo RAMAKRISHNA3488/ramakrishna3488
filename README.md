@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
   ![MySql](https://img.shields.io/badge/-MySql-880000?style=flat&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-003B57?style=flat&logo=mongodb&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-880000?style=flat&logo=Eclipse&logoColor=white)
-  ![Intellij](https://img.shields.io/badge/-Intellij-003B57?style=flat&logo=intellij&logoColor=white)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-003B57?style=flat&logo=intellij&logoColor=white)
 
 - **Other:**
   ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F5A300?style=flat&logo=python&logoColor=white)
