@@ -10,9 +10,13 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 
 - **Frameworks:**
 
+  ![Spring](https://img.shields.io/badge/-Spring-007396?style=flat&logo=sspring&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-3776AB?style=flat&logo=spring-boot&logoColor=white)
+  ![Hibrenate](https://img.shields.io/badge/-Hibernate-F7DF1E?style=flat&logo=hibernate&logoColor=black)
+
 - **Database Management:**
   ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-  ![NoSQL](https://img.shields.io/badge/-NoSQL-003B57?style=flat&logo=mongodb&logoColor=black)
+  ![NoSQL](https://img.shields.io/badge/-NoSQL-003B57?style=flat&logo=mongodb&logoColor=White)
   
 
   - **Web Technologies:**
