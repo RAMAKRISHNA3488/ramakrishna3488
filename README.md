@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 
 - **Database Management:**
   ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-  ![NoSQL](https://img.shields.io/badge/-NoSQL-003B57?style=flat&logo=nosql&logoColor=white)
+  ![NoSQL](https://img.shields.io/badge/-NoSQL-003B57?style=flat&logo=mongodb&logoColor=white)
   
 
   - **Web Technologies:**
