@@ -79,6 +79,6 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 
 [![](https://visitcount.itsvg.in/api?id=ramakrishna3488&icon=5&color=3)](https://visitcount.itsvg.in)
 
-&nbsp;![](https://komarev.com/ghpvc/?username=ramakrishna3488&color=white)
+&nbsp;![](https://komarev.com/ghpvc/?username=ramakrishna3488&color=lightgreen)
 
 
