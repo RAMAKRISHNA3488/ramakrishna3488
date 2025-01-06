@@ -75,9 +75,8 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ramakrishna3488&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=ramakrishna3488&icon=5&bg=ffffff)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=ramakrishna3488&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 &nbsp;![](https://komarev.com/ghpvc/?username=ramakrishna3488&color=brightgreen)
 
