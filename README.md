@@ -81,9 +81,9 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 
 &nbsp;![](https://komarev.com/ghpvc/?username=ramakrishna3488&color=brightgreen)
 
+![](https://github-profile-trophy.vercel.app/?username=ramakrishna3488&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramakrishna3488&show_icons=true&locale=en" alt="ramakrishna3488" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramakrishna3488&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=ramakrishna3488&icon=5&color=3&bg=ffffff)](https://visitcount.itsvg.in)
+
 
 
