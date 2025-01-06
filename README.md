@@ -1,7 +1,7 @@
 # 💫 Hi! My name is Kummari Ramakrishna 👋
 Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backend Developer with a love for creating innovative solutions and learning new technologies.<br>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 - **Programming Languages:**
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
