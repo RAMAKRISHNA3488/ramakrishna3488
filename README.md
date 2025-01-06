@@ -69,19 +69,16 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Java Backe
 
 # 📊 GitHub Stats:
 
-&nbsp;![](https://komarev.com/ghpvc/?username=ramakrishna3488&color=brightgreen)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramakrishna3488&show_icons=true&locale=en" alt="ramakrishna3488" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramakrishna3488&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
 
 
-<!--![](https://github.com/ramakrishna3488?tab=stars)<br/>
-![](https://github-readme-stats.vercel.app/api?username=ramakrishna3488&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramakrishna3488&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ramakrishna3488&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=ramakrishna3488&icon=5&color=3)](https://visitcount.itsvg.in)
+
+&nbsp;![](https://komarev.com/ghpvc/?username=ramakrishna3488&color=brightgreen)
 
 
